@@ -31,7 +31,6 @@ Here are the steps for making the hardware connections:
 ![](https://cdn.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:1500/https://www.filepicker.io/api/file/W6NJDEZKRNK8C4R6wjD8)
 
     Step 4: Insert the other leg of the resistor also into the A0 pin
-
 ![](https://cdn.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:1500/https://www.filepicker.io/api/file/4JIf9WRJWvMxZvHaWAZA)
 
     Warning!! Make sure that at no point do the 3.3V (or even 5V) and GND pins or wires coming out of them touch each other. If you short power to Ground without a resistor even accidentally, the current drawn might be high enough to destroy the Bolt module 
