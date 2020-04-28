@@ -28,7 +28,6 @@ Here are the steps for making the hardware connections:
 ![](https://cdn.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:1500/https://www.filepicker.io/api/file/LyuLA4JMTSy9NSx3qAG9)
 
     Step 3: Insert one leg of the 10k Ohm resistor into the GND pin
-
 ![](https://cdn.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:1500/https://www.filepicker.io/api/file/W6NJDEZKRNK8C4R6wjD8)
 
     Step 4: Insert the other leg of the resistor also into the A0 pin
