@@ -1,5 +1,7 @@
-# Temperature-Monitor
+# Temperature-Monitor <img src="https://thumbs.gfycat.com/DelayedOblongFattaileddunnart-max-1mb.gif" width="60" height="70"></img>
 I have completed my Temperature Monitor Project which send alert Sms and email alert when the temperature crosses its threshold with the help of Bolt Module and Bolt Cloud using python3 language.
+
+<img src="https://media1.tenor.com/images/0d50b64700ce6e18c282030b07cdf675/tenor.gif?itemid=7238178" width="800"></img>
 
 To send SMS alert I have used Twilio (https://www.twilio.com)
 And For Email alert I have used Mailgun (https://www.mailgun.com)
