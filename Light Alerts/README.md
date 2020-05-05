@@ -1,7 +1,9 @@
-# Light Alerts
+# Light Intensity Alert System <img src="https://media3.giphy.com/media/Eq3UZDvFalEiwh5Raj/source.gif" width = "80"></img>
 
-I have completed my Temperature Monitor Project which send alert Sms and email alert when the temperature crosses its threshold with the help of Bolt Module and Bolt Cloud using python3 language. Here the Bolt Cloud will send an email as well as SMS when light goes off (means its value declease from value 10) on LDR connected to Bolt Module.
+   I have completed my Temperature Monitor Project which send alert Sms and email alert when the temperature crosses its threshold with the help of Bolt Module and Bolt Cloud using python3 language. Here the Bolt Cloud will send an email as well as SMS when light goes off (means its value declease from value 10) on LDR connected to Bolt Module.
 To send SMS alert I have used Twilio (https://www.twilio.com) And For Email alert I have used Mailgun (https://www.mailgun.com)
+
+<img src="https://labblog.uofmhealth.org/sites/lab/files/2018-11/michigan-med-l-ocd-study.gif"></img>
 
 First of All change credentials of `email_conf.py` and `sms_conf.py` according to your Mailgun and Twilio Account.
 
